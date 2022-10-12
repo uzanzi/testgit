@@ -7,6 +7,6 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<nav></nav>
+<nav>ma nav</nav>
 </body>
 </html>
